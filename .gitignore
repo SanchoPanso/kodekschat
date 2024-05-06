@@ -1,0 +1,4 @@
+faiss_index
+*.gguf
+interact_llamacpp.py
+venv
